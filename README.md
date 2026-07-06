@@ -1,64 +1,34 @@
-### Hi there, Odi here! 👋
+<div align="center">
 
-🔭 I’m currently working on [COVID-19 API](https://github.com/covid-19-api) and other educational stuff.
+<pre>
+╭──────────────────────────────────────────────╮
+│                                              │
+│                                              │
+│    mathdroid                                 │
+│    > building in private                     │
+│                                              │
+│    odi - muhammad mustadi                    │
+│    https://mathdro.id                        │
+│    hello@mathdro.id                          │
+│                                              │
+│                                              │
+│                                              │
+╰──────────────────────────────────────────────╯
+</pre>
 
-📫 How to reach me: email me, or Tweet me at [Twitter/mathdroid](https://twitter.com/mathdroid) for quick response.
+### 💬 sign my guest book
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mathdroid?label=Follow&style=social)](https://twitter.com/mathdroid)
-[![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HPxA6Ft)
+<pre>$ ssh mathdro.id</pre>
 
+<sub>a tiny world in your terminal: name card | blog | socials | chat</sub>
+<br/>
+<sub>log in with your ssh key, pick a username, say hi</sub>
+<br/>
+<sub>promote your stuff if you like, but no negativity allowed - be nice to each other 💕</sub>
 
-### Guest Book
+<br/>
 
-> 💬 Sign my guest book: `ssh mathdro.id`
+[![follow on X](https://img.shields.io/twitter/follow/mathdroid?label=%40mathdroid&style=social)](https://x.com/mathdroid)
+[![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5YmSS2cJP)
 
-> (Log in with your SSH key, pick a username, and say hi in the chat. Feel free to promote your stuff, but no negativity allowed. Be nice to each other 💕)
-
-Signatures from the old web guest book (2020-2021), preserved below:
-
----
-
-<!--START_SECTION:guestbook-->
-<a href="https://github.com/midnixx"><img align="left" width="32" height="32" src="https://www.github.com/midnixx.png"></a> [@midnixx](https://github.com/midnixx) says:
-
-> hello
-
-<sup>29 Mar 2021, 7:48 AM (GMT+0)</sup>
-
-
----
-
-<a href="https://github.com/ridhanf"><img align="left" width="32" height="32" src="https://www.github.com/ridhanf.png"></a> [@ridhanf](https://github.com/ridhanf) says:
-
-> You're so cool with your covid-19-api. I really appreciate it.
-
-<sup>14 Mar 2021, 4:27 AM (GMT+0)</sup>
-
-
----
-
-<a href="https://github.com/arifhnd"><img align="left" width="32" height="32" src="https://www.github.com/arifhnd.png"></a> [@arifhnd](https://github.com/arifhnd) says:
-
-> Hi Odi! G'day, Mate!
-
-<sup>10 Mar 2021, 3:42 AM (GMT+0)</sup>
-
-
----
-
-<a href="https://github.com/alhaqhassan"><img align="left" width="32" height="32" src="https://www.github.com/alhaqhassan.png"></a> [@alhaqhassan](https://github.com/alhaqhassan) says:
-
-> hey, checkout youtube ad skipper https://github.com/alhaqhassan/auto-skip-youtube-ads.js
-
-<sup>05 Feb 2021, 3:22 PM (GMT+0)</sup>
-
-
----
-
-<a href="https://github.com/fiqryq"><img align="left" width="32" height="32" src="https://www.github.com/fiqryq.png"></a> [@fiqryq](https://github.com/fiqryq) says:
-
-> Salam kenal mas odii
-
-<sup>03 Feb 2021, 1:28 PM (GMT+0)</sup>
-
-<!--END_SECTION:guestbook-->
+</div>
